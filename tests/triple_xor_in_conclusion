@@ -1,0 +1,16 @@
+A => B ^ C ^ D
+B => C
+= AB
+?BCDA
+
+# bonus mode :
+# A = True
+# B = True
+# C = True
+# D = True
+
+# normal mode :
+# A = True
+# B = True
+# C = True
+# D = True

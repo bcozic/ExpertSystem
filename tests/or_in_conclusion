@@ -1,0 +1,18 @@
+A => B | C
+B | C => D
+
+= A
+
+?BCD
+
+# bonus mode :
+# A = True
+# B = Unknownable
+# C = Unknownable
+# D = True
+
+# normal mode :
+# A = True
+# B = Unknownable
+# C = Unknownable
+# D = True

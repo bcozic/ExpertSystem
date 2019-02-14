@@ -1,0 +1,15 @@
+=A
+
+A + D => B
+
+?BD
+
+# bonus mode :
+# A = True
+# B = Unknownable
+# D = Unknownable
+
+# normal mode :
+# A = True
+# B = False
+# D = False

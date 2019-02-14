@@ -1,0 +1,18 @@
+=A
+
+!D=>B
+A=>B+C+!D
+
+?BCD
+
+# bonus mode :
+# A = True
+# B = True
+# C = True
+# D = False
+
+# normal mode :
+# A = True
+# B = True
+# C = True
+# D = False

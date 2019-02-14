@@ -1,0 +1,24 @@
+A => (B ^ (C ^ D)) | (D ^ (E ^ F))
+B => C
+C => D
+E => F
+F => C
+F => D
+= AC
+?BCDEF
+
+# bonus mode :
+# A = True
+# B = Unknownable
+# C = True
+# D = True
+# E = Unknownable
+# F = Unknownable
+
+# normal mode :
+# A = True
+# B = False
+# C = True
+# D = True
+# E = False
+# F = False

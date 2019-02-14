@@ -1,0 +1,24 @@
+=A
+
+A => (B + C) ^ D
+D => E | F
+E + C => D
+F => A
+
+?ABCDEF
+
+# bonus mode :
+# A = True
+# B = Unknownable
+# C = Unknownable
+# D = Unknownable
+# E = Unknownable
+# F = Unknownable
+
+# normal mode :
+# A = True
+# B = Unknownable
+# C = Unknownable
+# D = Unknownable
+# E = Unknownable
+# F = Unknownable
